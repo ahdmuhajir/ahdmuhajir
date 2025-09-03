@@ -50,7 +50,7 @@
 ✨ Motto: *"Build with code, secure with network, scale with creativity."*  
 
 🐍 Snake Animation untuk kontribusi:  
-![Snake animation](https://github.com/USERNAME/USERNAME/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/ahdmuhajir/ahdmuhajir/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
