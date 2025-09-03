@@ -1,8 +1,6 @@
 # 👋 Hi, I'm Ahd Muhajir!  
 💻 **Web Developer | Laravel Enthusiast | AI Enthusiast | Network Geek**  
 
-![Coding Gif](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)  
-
 ---
 
 ## 🚀 About Me  
@@ -32,7 +30,6 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ahdmuhajir&show_icons=true&theme=tokyonight" alt="github stats" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=ahdmuhajir&theme=tokyonight" alt="streak stats" height="150"/>
 </p>
 
 ---
@@ -47,17 +44,14 @@
 
 ## 🎨 Fun Zone  
 
-✨ Motto: *"Build with code, secure with network, scale with creativity."*  
-
-🐍 Snake Animation untuk kontribusi:  
-![Snake animation](https://github.com/ahdmuhajir/ahdmuhajir/blob/output/github-contribution-grid-snake.svg)
+#✨ Motto: *"Once you stop learning, then you start dying."*  
 
 ---
 
 ## 📫 Connect With Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ahdmuhajir)  
-[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahdmuhajir11@gmail.com)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=web&logoColor=white)](https://ahd.my.id)  
+![LinkedIn](https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ahdmuhajir)  
+![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahdmuhajir11@gmail.com)  
+![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=web&logoColor=white)](https://ahd.my.id)  
 
 ---
 
